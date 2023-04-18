@@ -1,0 +1,12 @@
+languageCode = 'en-us'
+title = 'The Buoyancy Project'
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+repoURL = 'https://github.com/michaelpolinski/buoyancy-website'
+description = 'Buoyancy: exploring systems and user approaches to floating point correctness and resilience'
+colorDark = '#121212'
+colorLight = '#f7f7f7'
+colorDarkAccent = '#90CAF9'
+colorLightAccent = '#1565C0'
+images = ['android-chrome-512x512.png']
