@@ -9,7 +9,7 @@ weight: 30
   Machine, Proceedings of the 31st ACM Symposium on High-performance
   Parallel and Distributed Computing (HDPC 2022). June, 2022.  \[[paper](http://pdinda.org/Papers/hpdc22.pdf)\] 
 
--P. Dinda, A. Bernat, Comparing the Understanding of IEEE Floating
+- P. Dinda, A. Bernat, Comparing the Understanding of IEEE Floating
  Point Between Scientific and Non-scientific Developers, Technical
  Report NU-CS-2021-07, Department of Computer Science, Northwestern
  University, December, 2021. \[[paper](http://pdinda.org/Papers/NU-CS-2021-07.pdf)\]
