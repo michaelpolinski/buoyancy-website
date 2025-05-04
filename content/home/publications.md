@@ -4,6 +4,11 @@ draft: false
 weight: 30
 ---
 
+- N. Wanninger, N. Dhiantravan, P. Dinda,
+  Virtualization So Light, It Floats! Accelerating Floating Point
+  Virtualization, Proceedings of the 34th ACM Symposium on High-performance
+  Parallel and Distributed Computing (HDPC 2025). July, 2025.  \[[paper](http://pdinda.org/Papers/hpdc25.pdf)\] 
+
 - P. Dinda, N. Wanninger, J. Ma, A. Bernat, C. Bernat, S. Ghosh,
   C. Kraemer, Y. Elmasry, FPVM: Towards a Floating Point Virtual
   Machine, Proceedings of the 31st ACM Symposium on High-performance
