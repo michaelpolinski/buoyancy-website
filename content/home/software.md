@@ -5,9 +5,8 @@ weight: 40
 ---
 
 - [FPVM](https://github.com/PrescienceLab/fpvm) (Floating Point
-  Virtual Machine);  main branch
-- [FPSpy](https://github.com/PrescienceLab/fpspy/) http://presciencelab.org/FPSpy/fpspy-1.0.tgz) (Floating
-  Point Spy)
+  Virtual Machine)  Main branch reflects HPDC 2025 paper
+- [FPSpy](https://github.com/PrescienceLab/fpspy/) (Floating Point Spy) Estep branch reflects 2025 Technical Report.  Old tarball also [available](http://presciencelab.org/FPSpy/fpspy-1.0.tgz)
 - FPArch - RISC-V extensions for efficient floating point spying and
   virtualization (not public yet)
 - SciAttack Tools for finding classical and novel vulnerabilities in
